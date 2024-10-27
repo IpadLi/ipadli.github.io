@@ -378,10 +378,10 @@ tr.heading {
 }
 
 img {
-/*     border: none; */
+    border: none;
 /*     width: 280px; */
 /*     height: 280px; */
-    border-radius: 50%;
+/*     border-radius: 50%; */
 }
 
 table.imgtable, table.imgtable td {
