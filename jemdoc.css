@@ -8,18 +8,6 @@ html {
   background-color: #ffffff;
 }
 
-img {
-/*     border: none; */
-    width: 280px;
-    height: 280px;
-    border-radius: 50%;
-}
-
-table.imgtable, table.imgtable td {
-    border: none;
-    text-align: left;
-}
-
 body {
   font-family: Georgia, serif;
   color: #000;
@@ -387,4 +375,16 @@ table + table {
 tr.heading {
     font-weight: bold;
     border-bottom: 2px solid black;
+}
+
+img {
+/*     border: none; */
+    width: 280px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+table.imgtable, table.imgtable td {
+    border: none;
+    text-align: left;
 }
