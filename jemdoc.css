@@ -378,7 +378,8 @@ tr.heading {
 }
 
 img {
-    border: none;
+/*     border: none; */
+    border-radius: 50%;
 }
 
 table.imgtable, table.imgtable td {
